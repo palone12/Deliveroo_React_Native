@@ -143,4 +143,5 @@ const styles = StyleSheet.create({
   searchIcon: {
     paddingLeft: 10,
   },
+  extra: {},
 });
